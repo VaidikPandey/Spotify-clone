@@ -11,7 +11,7 @@ It features a basic webpage page that mimics the features of spotify.
 ### Frontend:
 - **HTML5**
 - **CSS3**
-- 
+
 ### Version Control:
 - **Git** and **GitHub** for version control
 
